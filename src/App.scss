@@ -1,0 +1,36 @@
+.App {
+    background: linear-gradient(to bottom left,#00416A,#00416A,rgb(207, 155, 12)) ;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+   
+  }
+  .allinee {
+    display: flex;
+    justify-content: space-between;
+   position: absolute;
+   top: 0;
+  }
+  .img{
+    width: 18%;
+  }
+  .home{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 100;
+    font-size: xx-large;
+  }
+  .footer{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 100;
+      color: white;
+     position: relative;
+     bottom:0;
+     
+      text-align: center;
+      
+  
+  }
